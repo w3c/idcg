@@ -13,3 +13,7 @@ Scheduled: 13 Oct 2020, 2-4pm UTC
   - [#20: Create group specific info pages](https://github.com/w3c/idcg/issues/20)
 
 4. What other training people might be interested in?
+
+## Minutes
+
+Minutes of the meeting are [online](https://www.w3.org/2020/10/13-idcg-minutes.html)
