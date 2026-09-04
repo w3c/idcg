@@ -1,3 +1,6 @@
+> [!CAUTION]
+> The Inclusion and Diversity Community Group has closed on 2021-05-26.
+
 # idcg
 Repo for the [Inclusion and Diversity Community Group](https://www.w3.org/community/idcg/)
 
